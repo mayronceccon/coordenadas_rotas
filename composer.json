@@ -1,0 +1,20 @@
+{
+    "name": "mayronceccon/criar-coordenadas-rotas",
+    "description": "Criar coordenadas de uma rota entre dois pontos",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mayron Ceccon",
+            "email": "mayron.ceccon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "MTC\\" : "src/MTC"
+        }
+    },
+    "minimum-stability": "stable"
+}
